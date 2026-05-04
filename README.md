@@ -1,13 +1,13 @@
-# Ansible Role for LibreOffice
+# Ansible Role for LibreOffice with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-libreoffice/master)](https://gitlab.com/alvistack/ansible-role-libreoffice/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-libreoffice.svg)](https://github.com/alvistack/ansible-role-libreoffice/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-libreoffice.svg)](https://github.com/alvistack/ansible-role-libreoffice/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.libreoffice-blue.svg)](https://galaxy.ansible.com/alvistack/libreoffice)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_libreoffice/master)](https://gitlab.com/alvistack/ansible-role-flatpak_libreoffice/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_libreoffice.svg)](https://github.com/alvistack/ansible-role-flatpak_libreoffice/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_libreoffice.svg)](https://github.com/alvistack/ansible-role-flatpak_libreoffice/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_libreoffice-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_libreoffice)
 
-Ansible Role for LibreOffice Installation.
+Ansible Role for LibreOffice with Flatpak.
 
 ## Requirements
 
