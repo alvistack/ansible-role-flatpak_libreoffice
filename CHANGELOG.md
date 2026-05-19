@@ -1,4 +1,4 @@
-# Ansible Role for LibreOffice
+# Ansible Role for LibreOffice with Flatpak
 
 ## 13.6.0 - TBC
 
